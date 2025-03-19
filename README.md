@@ -139,7 +139,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Maintainer: Prashant Palve
 
-- GitHub: [@PrashantPalve01](https://github.com/PrashantPalve01)
+- GitHub: [shubhambendkhale77](https://github.com/shubhambendkhale77)
 
 ---
 
